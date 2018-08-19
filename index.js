@@ -9,6 +9,7 @@ var app = new express();
  * 接口：返回房协网查到的结果
  * 接口的属性分别是：
  * zone: 区域
+ * zoneCode: 区域编号
  * projectName: 项目名称
  * presellNum:　预售号
  * tel:　联系方式
